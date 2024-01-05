@@ -1,3 +1,3 @@
-module github.com/czyt/enex
+module github.com/lib-x/enex
 
-go 1.19
+go 1.20
